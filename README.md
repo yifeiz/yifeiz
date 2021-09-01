@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Thanks for checking out my Github profile! I'm Yifei, currently a 3rd year Software Engineering Student at the University of Waterloo. Feel free to check out some of my projects here; I've got a lot of ideas, but only some of them ever make it here 😅  If you only have time to check out one project, please take a look at [flatten.ca](https://flatten.ca), and its code [here](https://github.com/flatten-official)! We were featured on [CTV](https://www.ctvnews.ca/sci-tech/canadian-university-students-create-map-of-self-reported-potential-covid-19-cases-1.4872245) and [more](https://www.flatten.ca/about) 👀
+
+- 🔭 I’m currently working on: Spotify++, because my music tastes are just a bit too wack for Spotify's algorithms to handle
+- 🌱 I’m currently (re)learning: Python, because `thing = { 'a' : {'b' : 12 } }` is so much nicer than `std::unordered_map<char, std::unordered_map<char, int>> thing; ...`
+- 🎒 I've previously interned at: Splunk, Altis Labs, The Co-operators, OICR
+- 📫 How to reach me: [linkedIn](https://linkedin.com/in/yifei-zhang1) | [email](mailto:yifei7.zhang@gmail.com)
+- 🌐 Check out my (constantly unfinished and out of date) website: [yifeiz.com](https://yifeiz.com)
+
+Hope to hear from you!
+
 <!--
 **yifeiz/yifeiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
