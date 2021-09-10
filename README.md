@@ -6,7 +6,7 @@ Thanks for checking out my Github profile! I'm Yifei, currently a 3rd year Softw
 - 🌱 I’m currently (re)learning: Python, because `thing = { 'a' : {'b' : 12 } }` is so much nicer than `std::unordered_map<char, std::unordered_map<char, int>> thing; ...`
 - 🎒 I've previously interned at: Splunk, Altis Labs, The Co-operators, OICR
 - 📫 How to reach me: [linkedIn](https://linkedin.com/in/yifei-zhang1) | [email](mailto:yifei7.zhang@gmail.com)
-- 🌐 Check out my (constantly unfinished and out of date) website: [yifeiz.com](https://yifeiz.com)
+- 🌐 Check out my (perpetually under construction) website: [yifeiz.com](https://yifeiz.com)
 
 Hope to hear from you!
 
